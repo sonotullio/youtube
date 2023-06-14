@@ -1,8 +1,20 @@
-# YouFit! React Fitness Application
+# YouTube Clone! React Application
 
 ![React YouTube Clone App](public/landing.png)
 
-## [Let's collaborate!](https://linkedin.com/in/tullio-forneris)
+### Project Pillars
+- React functional components and their reusability
+- React file and folder structure
+- Material UI (version 5)
+- Media queries for satisfactory responsiveness on all devices
+- RapidAPI: fetching data from unlimited sources.
+- React Router: to navigate between pages.
+- React Context API: to manage the state of the application.
+- React Hooks: to manage the state of the application.
+
+### [Keep Updated](https://linkedin.com/in/tullio-forneris) --> Follow me on LinkedIn
+### [Let's collaborate](https://github.com/sonotullio) --> Follow me on GitHub
+### [Other Projects](https://tullio-forneris.it) --> Take a look at my portfolio, you will find all my projects, my ideas, my contacts!
 
 # Getting Started with Create React App
 
